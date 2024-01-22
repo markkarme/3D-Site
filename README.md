@@ -1,19 +1,2 @@
-# portfolio
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# SocPrime
+![Uploading screencapture-localhost-8080-2024-01-22-19_25_45.png…]()
